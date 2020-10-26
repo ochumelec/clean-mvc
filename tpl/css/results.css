@@ -1,0 +1,35 @@
+.green {
+    color: #00a22b !important;
+}
+
+.red {
+    color: #cd0000 !important;
+}
+
+.tltp {
+    cursor: pointer;
+}
+
+#show_table_month {
+    margin: 5px;
+}
+
+#dtable_length {
+    float: left;
+    width: 200px;
+}
+.difference_up {
+    color: green;
+}
+
+.difference_down {
+    color: red;
+}
+
+li.menu_project.selected_menu_item {
+    background: #369;
+}
+li.menu_project.selected_menu_item a {
+    font-weight: bold;
+    color: #fff;
+}
